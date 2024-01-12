@@ -33,7 +33,7 @@
 #### Studying in this moment:
 
 ![Photoshop](https://img.shields.io/badge/-8A2BE2?style=flat-square&logo=Photoshop&logoColor=Photoshop&label=Photoshop&labelColor=%2330A8FF&color=%2330A8FF)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![UnrealEngine](https://img.shields.io/badge/-8A2BE2?style=flat-square&logo=Photoshop&logoColor=UnrealEngine&label=Unreal%20Engine&labelColor=%23343434&color=%23343434)&nbsp;
 
 
 &nbsp;
