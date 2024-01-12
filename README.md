@@ -1,5 +1,5 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I am UX/UI Desingner, using Figma to develop wireframes high and low quality. <strong>I always ready to learn</strong> and do the better work </p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> I am UX/UI Desingner, using Figma to develop wireframes high and low quality. <strong>I always ready to learn</strong> and do the better work. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustavoCanolaAlmeida&theme=radical&mode=weekly" />
