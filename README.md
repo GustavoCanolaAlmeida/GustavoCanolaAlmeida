@@ -27,7 +27,8 @@
 
 ![HTML](https://img.shields.io/badge/-8A2BE2?style=flat-square&logo=HTML5&logoColor=HTML5&label=HTML%20&labelColor=%23343434&color=%23343434)&nbsp;
 ![CSS](https://img.shields.io/badge/-8A2BE2?style=flat-square&logo=CSS3&logoColor=CSS&label=CSS&labelColor=%23343434&color=%23343434)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Github](https://img.shields.io/badge/-8A2BE2?style=flat&logo=github&label=Github&labelColor=%23032436&color=%23032436
+)&nbsp;
 
 #### Studying in this moment:
 
